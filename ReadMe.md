@@ -1,4 +1,4 @@
-# Practices - Section 8: The Soccer League
+# Lab 20c The Soccer League
 
 ## Overview
 
