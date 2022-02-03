@@ -8,7 +8,7 @@ There are 4 teams in the league.  Matchups are determined at random.  2 games ar
 
 ## Tasks
 
-Write a program that models a soccer league and keeps track of the season’s statistics. Carefully consider what data should be stored in an array and what data should be stored in an ArrayList.  Design classes with fields and methods based on the description of the league. You’ll also need a Unit test for all the classes. In addition you will need a com.codedifferenly.labs.lab20c.Scheduler class that contains a main method to run the application.  All fields must be private.  Provide any necessary getters and setters.
+Write a program that models a soccer league and keeps track of the season’s statistics. Carefully consider what data should be stored in an array and what data should be stored in an ArrayList.  Design classes with fields and methods based on the description of the league. You’ll also need a Unit test for all the classes. In addition you will need a Scheduler class that contains a main method to run the application.  All fields must be private.  Provide any necessary getters and setters.
 
 ## Teams
 
